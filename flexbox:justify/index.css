@@ -1,0 +1,23 @@
+div {
+    background-color: violet;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+  }
+  /* main {
+    display: flex;
+    justify-content:flex-start;
+    flex-direction: column;
+    
+  } */
+  ul li{
+    background-color: violet;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    text-align: center; 
+    justify-content:space-around;
+    justify-content: flex-end;
+    flex-direction: row;
+  }
